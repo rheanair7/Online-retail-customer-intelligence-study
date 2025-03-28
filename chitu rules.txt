@@ -9,7 +9,7 @@
 
 
 Areas of analysis
-1. Market basket analysis- apriori algorithm
-2. Customer loyalty- RFM
-3. Customer churn- Regression
+1. Market basket analysis- apriori algorithm --descriptive
+2. Customer loyalty- RFM --predictive
+3. Customer churn- Regression  --diagnostic
 4.
