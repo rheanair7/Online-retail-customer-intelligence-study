@@ -1,6 +1,6 @@
 1. Description: "?", blanks,"throw"
 2. Invoice- C is for cancelled
-3. Bad debt stock code: B, customer id is blank, invoice code starts with A
+3. Bad debt stock code: B, customer id is blank, invoice code starts with A --remove
 4. Postage- international transfer has Customer ID
 5. Dotcom Postage- domestic transfer has no customer ID
 6. Discount- D, (-negative), CID present
@@ -12,4 +12,4 @@ Areas of analysis
 1. Market basket analysis- apriori algorithm --descriptive
 2. Customer loyalty- RFM --predictive
 3. Customer churn- Regression  --diagnostic
-4.
+4. Geographical market analysis --prescriptive
