@@ -7,6 +7,8 @@
 7. CRUK Commission- CRUK, (-negative), all CID present
 8. December- repeated in both worksheets
 9. gift stock code - no cid
+10. damages "Description" need to be eliminated or separated
+
 
 
 Areas of analysis
@@ -14,6 +16,12 @@ Areas of analysis
 2. Customer loyalty- RFM --predictive
 3. Customer churn- Regression  --diagnostic
 4. Geographical market analysis --prescriptive
+5. Return Analysis --
 
 
 Steps 1: Drop Duplicates
+
+
+1. 2mins- explaining dataset
+2. 
+
