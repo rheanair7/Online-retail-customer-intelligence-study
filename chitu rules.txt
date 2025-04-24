@@ -26,5 +26,8 @@ Steps 1: Drop Duplicates
 2. 
 
 
+Combining all 3 analyses: https://chatgpt.com/share/68054455-fac0-800e-bdad-d03e0959505e
+
+
 Why LSTM and RNNs?
 Feedforward Neural Networks (FNNs) struggle with sequential data since they lack memory. Recurrent Neural Networks (RNNs) solve this by incorporating loops that allow information from previous steps to be fed back into the network. This feedback enables RNNs to remember prior inputs making them ideal for tasks where context is important. 
