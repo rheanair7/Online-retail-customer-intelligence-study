@@ -1,4 +1,4 @@
-#Online-retail
+# Online-retail
 <p>The objective of this project is to build a comprehensive customer intelligence study that not only describes current business performance but also diagnoses the underlying causes, prescribes actionable strategies, and predicts future outcomes. The company specializes in selling unique, all-occasion giftware to wholesale buyers across different countries. Key strategic questions include:
     ● What products should be sold to which countries, and during which time periods, to maximize sales?
     ● How do customer behaviors vary by region, season and product type?
