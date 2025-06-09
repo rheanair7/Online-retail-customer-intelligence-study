@@ -1,9 +1,9 @@
 # Online-retail
 The objective of this project is to build a comprehensive customer intelligence study that not only describes current business performance but also diagnoses the underlying causes, prescribes actionable strategies, and predicts future outcomes. The company specializes in selling unique, all-occasion giftware to wholesale buyers across different countries. Key strategic questions include:
-    ● What products should be sold to which countries, and during which time periods, to maximize sales?
-    ● How do customer behaviors vary by region, season and product type?
-    ● Which products are often purchased together, how can this support effective bundling strategies?
-    ● How can we better understand and serve different customer segments based on their value contribution? 
+● What products should be sold to which countries, and during which time periods, to maximize sales?
+● How do customer behaviors vary by region, season and product type?
+● Which products are often purchased together, how can this support effective bundling strategies?
+● How can we better understand and serve different customer segments based on their value contribution? 
 
 We have produced a code, report, presentation and tableau visualization of our work. The data set used is The Online Retail II dataset, hosted on the UCI Machine Learning Repository and can be accessed here: https://archive.ics.uci.edu/dataset/502/online+retail+ii. This dataset contains transactional data from a UK-based non-store online retailer, covering the period from December 1, 2009, to December 9, 2011.
 
