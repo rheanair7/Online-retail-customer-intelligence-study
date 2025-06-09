@@ -1,5 +1,5 @@
 # Online-retail
-<p>The objective of this project is to build a comprehensive customer intelligence study that not only describes current business performance but also diagnoses the underlying causes, prescribes actionable strategies, and predicts future outcomes. The company specializes in selling unique, all-occasion giftware to wholesale buyers across different countries. Key strategic questions include:
+The objective of this project is to build a comprehensive customer intelligence study that not only describes current business performance but also diagnoses the underlying causes, prescribes actionable strategies, and predicts future outcomes. The company specializes in selling unique, all-occasion giftware to wholesale buyers across different countries. Key strategic questions include:
     ● What products should be sold to which countries, and during which time periods, to maximize sales?
     ● How do customer behaviors vary by region, season and product type?
     ● Which products are often purchased together, how can this support effective bundling strategies?
@@ -21,4 +21,4 @@ Inventory Optimization: Understanding seasonal demand helps manage inventory mor
 
 Customer Lifecycle Management: Analyzing customer behavior over time reveals changes in engagement levels. This enables timely actions, such as sending personalized offers to maintain relationships.
 
-Strategic Reporting: Interactive Tableau dashboards give stakeholders a clear view of key metrics, customer trends, and business performance, supporting informed and timely decisions. </p>
+Strategic Reporting: Interactive Tableau dashboards give stakeholders a clear view of key metrics, customer trends, and business performance, supporting informed and timely decisions.
