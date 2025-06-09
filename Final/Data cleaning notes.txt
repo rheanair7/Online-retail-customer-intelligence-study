@@ -1,0 +1,33 @@
+1. Description: "?", blanks,"throw"
+2. Invoice- C is for cancelled
+3. Bad debt stock code: B, customer id is blank, invoice code starts with A --dropped
+4. Postage- international transfer has Customer ID
+5. Dotcom Postage- domestic transfer has no customer ID
+6. Discount- D, (-negative), CID present
+7. CRUK Commission- CRUK, (-negative), all CID present
+8. December- repeated in both worksheets
+9. gift stock code - no cid
+10. damages "Description" need to be eliminated or separated
+
+
+
+Areas of analysis
+1. Market basket analysis- apriori algorithm --descriptive
+2. Customer loyalty- RFM --predictive
+3. Customer churn- Regression  --diagnostic
+4. Geographical market analysis --prescriptive
+5. Return Analysis --
+
+
+Steps 1: Drop Duplicates
+
+
+1. 2mins- explaining dataset
+2. 
+
+
+Combining all 3 analyses: https://chatgpt.com/share/68054455-fac0-800e-bdad-d03e0959505e
+
+
+Why LSTM and RNNs?
+Feedforward Neural Networks (FNNs) struggle with sequential data since they lack memory. Recurrent Neural Networks (RNNs) solve this by incorporating loops that allow information from previous steps to be fed back into the network. This feedback enables RNNs to remember prior inputs making them ideal for tasks where context is important. 
