@@ -1,24 +1,71 @@
+# Online Retail Customer Intelligence Study
 
-The objective of this project is to build a comprehensive customer intelligence study that not only describes current business performance but also diagnoses the underlying causes, prescribes actionable strategies, and predicts future outcomes. The company specializes in selling unique, all-occasion giftware to wholesale buyers across different countries. Key strategic questions include:
-1. What products should be sold to which countries, and during which time periods, to maximize sales?
-2. How do customer behaviors vary by region, season and product type?
-3. Which products are often purchased together, how can this support effective bundling strategies?
-4. How can we better understand and serve different customer segments based on their value contribution? 
+This repository contains a **collaborative group project** focused on building a comprehensive customer intelligence study for a UK-based online giftware retailer. The project was developed as part of our academic coursework and reflects contributions from all team members.
 
-We have produced a code, report, presentation and tableau visualization of our work. The data set used is The Online Retail II dataset, hosted on the UCI Machine Learning Repository and can be accessed here: https://archive.ics.uci.edu/dataset/502/online+retail+ii. This dataset contains transactional data from a UK-based non-store online retailer, covering the period from December 1, 2009, to December 9, 2011.
+---
 
-The insights generated from analysis can support decision-making in several key areas:
+## Project Objective
 
-Customer Segmentation and Marketing: We used RFM analysis (Recency, Frequency, and Monetary) to identify customer segments such as “Champions” and “At Risk.” This enables the business to run targeted marketing campaigns to retain loyal customers and re-engage inactive ones.
+The goal of this project is to analyze customer transaction data to:
+- Describe current business performance
+- Diagnose underlying causes
+- Prescribe actionable strategies
+- Predict future outcomes
 
-Sales and Product Strategy: Association rule mining (Apriori) uncovers patterns in product combinations that are frequently purchased together. These insights can guide the development of product bundling and cross-selling strategies tailored to specific markets.
+The company specializes in selling unique, all-occasion giftware to wholesale buyers across multiple countries.
 
-Geographical Targeting: Analysis of transaction data by country provides insights about regional purchasing preferences. These insights can guide decisions on which products to promote in which countries and at what times, enabling more effective allocation of sales and marketing resources.
+---
 
-Demand Forecasting: The Holt-Winters method supports forecasting future sales trends by product and region. This aids in planning promotions, managing inventory, and coordinating logistics.
+## Key Strategic Questions
+- What products should be sold to which countries and during which time periods to maximize sales?
+- How do customer behaviors vary by region, season, and product type?
+- Which products are often purchased together, and how can this support effective bundling strategies?
+- How can we better understand and serve different customer segments based on their value contribution?
 
-Inventory Optimization: Understanding seasonal demand helps manage inventory more efficiently, reducing storage costs and avoiding product shortages.
+---
 
-Customer Lifecycle Management: Analyzing customer behavior over time reveals changes in engagement levels. This enables timely actions, such as sending personalized offers to maintain relationships.
+## Dataset
 
-Strategic Reporting: Interactive Tableau dashboards give stakeholders a clear view of key metrics, customer trends, and business performance, supporting informed and timely decisions.
+We used the [Online Retail II dataset](https://archive.ics.uci.edu/dataset/502/online+retail+ii) from the UCI Machine Learning Repository.  
+It includes transactional data from December 1, 2009, to December 9, 2011, from a UK-based non-store online retailer.
+
+---
+
+## Analytical Approaches & Deliverables
+
+- **Customer Segmentation & Marketing**  
+  Using **RFM Analysis** (Recency, Frequency, Monetary) to segment customers into categories such as *Champions* and *At Risk*, enabling targeted marketing strategies.
+
+- **Sales & Product Strategy**  
+  Implemented **Association Rule Mining (Apriori algorithm)** to identify product combinations frequently bought together, informing bundling and cross-sell opportunities.
+
+- **Geographical Targeting**  
+  Analyzed purchasing patterns by country to guide regional marketing and product focus.
+
+- **Demand Forecasting**  
+  Applied **Holt-Winters exponential smoothing** to forecast sales trends by product and geography, aiding in inventory and promotion planning.
+
+- **Inventory Optimization**  
+  Assessed seasonal demand patterns to reduce holding costs and prevent stockouts.
+
+- **Customer Lifecycle Management**  
+  Tracked engagement changes over time to support retention strategies using personalized offers.
+
+- **Strategic Reporting**  
+  Developed **interactive Tableau dashboards** for clear, visual reporting of key metrics and customer behavior insights.
+
+---
+
+## Deliverables
+
+- Python code notebooks
+- Final project report
+- Project presentation
+- Tableau dashboard visualizations
+
+---
+
+## Credits
+
+This project was developed collaboratively by our team as part of a group coursework assignment. All members contributed to the analysis, development, and insights presented.
+
