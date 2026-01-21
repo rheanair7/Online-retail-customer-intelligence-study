@@ -42,6 +42,7 @@ It includes transactional data from December 1, 2009, to December 9, 2011, from 
 
 - **Geographical Targeting**  
   Analyzed purchasing patterns by country to guide regional marketing and product focus.
+  ![Top Product Combinations for Cross-Selling in the UK](Final/tableaudash3.jpeg)
 
 - **Demand Forecasting**  
   Applied **Holt-Winters exponential smoothing** to forecast sales trends by product and geography, aiding in inventory and promotion planning.
