@@ -34,9 +34,11 @@ It includes transactional data from December 1, 2009, to December 9, 2011, from 
 
 - **Customer Segmentation & Marketing**  
   Using **RFM Analysis** (Recency, Frequency, Monetary) to segment customers into categories such as *Champions* and *At Risk*, enabling targeted marketing strategies.
+  ![Top Product Combinations for Cross-Selling in the UK](Final/tableaudash1.jpeg)
 
 - **Sales & Product Strategy**  
   Implemented **Association Rule Mining (Apriori algorithm)** to identify product combinations frequently bought together, informing bundling and cross-sell opportunities.
+  ![Top Product Combinations for Cross-Selling in the UK](Final/tableaudash2.jpeg)
 
 - **Geographical Targeting**  
   Analyzed purchasing patterns by country to guide regional marketing and product focus.
